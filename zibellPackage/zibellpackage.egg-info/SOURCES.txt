@@ -1,0 +1,13 @@
+README.md
+pyproject.toml
+setup.py
+tests/test_simulation.py
+zibell/__init__.py
+zibell/bell.py
+zibell/estimation.py
+zibell/simulate.py
+zibellpackage.egg-info/PKG-INFO
+zibellpackage.egg-info/SOURCES.txt
+zibellpackage.egg-info/dependency_links.txt
+zibellpackage.egg-info/requires.txt
+zibellpackage.egg-info/top_level.txt
